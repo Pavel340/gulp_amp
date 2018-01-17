@@ -1,0 +1,6 @@
+body {
+  background: yellow;
+  color: purple;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
